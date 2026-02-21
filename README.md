@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @julianver200
-- 👀 I’m interested in the field of Tech Industry aiming to have a job related to it ...
-- 🌱 I’m currently learning Introduction of Programming ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I'm Julian! 👋
 
-<!---
-julianver200/julianver200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack Web Developer | UI/UX Enthusiast | Cybersecurity Enthusiast 
+
+I am a aspiring software engineer/cybersecurit based in Davao City, currently honing my skills in building functional and visually appealing web applications.
+
+🛠️ Tech Stack & Tools
+
+Frontend & Design
+- Html
+- CSS
+- JS
+- PHP
+
+Backend & Database
+- NodeJs
+- PHP
+- MongoDb
+- MySql
+- PostgresSql
+
+Frameworks
+- React
+- Tailwind
+- Laravel
+- ExpressJs
+
+Tools
+- VsCode
+- Git
+- Figma
+
+
