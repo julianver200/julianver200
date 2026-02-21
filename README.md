@@ -1,8 +1,8 @@
 Hi there, I'm Julian! 👋
 
-Full-Stack Web Developer | UI/UX Enthusiast | Cybersecurity Enthusiast 
+Aspiring Full-Stack Web Developer | UI/UX Enthusiast | Cybersecurity Enthusiast 
 
-I am a aspiring software engineer/cybersecurit based in Davao City, currently honing my skills in building functional and visually appealing web applications.
+I am a aspiring web developer/cybersecurity analyst based in Davao City, currently honing my skills in building functional, visually appealing  and securing web applications .
 
 🛠️ Tech Stack & Tools
 
@@ -29,5 +29,7 @@ Tools
 - VsCode
 - Git
 - Figma
+- Linux
+- Terminal
 
 
