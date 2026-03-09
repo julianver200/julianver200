@@ -28,6 +28,7 @@ Frameworks
 Tools
 - VsCode
 - Git
+- Github
 - Figma
 - Linux
 - Terminal
