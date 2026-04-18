@@ -9,10 +9,11 @@ I am a aspiring web developer/cybersecurity analyst based in Davao City, current
 Frontend & Design
 - Html
 - CSS
-- JS
+- JS/TS
 - PHP
 
 Backend & Database
+- TS
 - NodeJs
 - PHP
 - MongoDb
