@@ -13,8 +13,7 @@ Frontend & Design
 - PHP
 
 Backend & Database
-- TS
-- NodeJs
+- NodeJS/TS
 - PHP
 - MongoDb
 - MySql
