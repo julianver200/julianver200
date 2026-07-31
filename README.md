@@ -32,5 +32,7 @@ Tools
 - Figma
 - Linux
 - Terminal
+- Antigravity
+- Postman
 
 
