@@ -25,7 +25,7 @@ Frameworks
 - Tailwind
 - Laravel
 - ExpressJs
-
+- .Net
 Tools
 - VsCode
 - Git
