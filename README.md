@@ -69,9 +69,8 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 
 Feel free to reach out if you want to collaborate, chat, or just say hi! 
 
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email: julianverquinal2006@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/julian-ver-quiñal-0507a9302
 
 ---
 
