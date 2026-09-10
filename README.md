@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 - 🚀 Currently honing my skills in full-stack web development
 - 🔒 Passionate about cybersecurity and secure coding practices
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 
 ---
 
-## 🎓 What I'm Currently Doing
+##  What I'm Currently Doing
 
 - 📚 Deepening my knowledge in full-stack development
 - 🔐 Exploring cybersecurity best practices and secure coding
@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 Feel free to reach out if you want to collaborate, chat, or just say hi! 
 
@@ -72,7 +72,7 @@ Feel free to reach out if you want to collaborate, chat, or just say hi!
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 <!-- Add your featured projects here -->
 *Coming soon! Check out my repositories for more.*
