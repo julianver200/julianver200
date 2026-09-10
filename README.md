@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Julian!
+#  Hi, I'm Julian!
 
 **Aspiring Full-Stack Web Developer | Cybersecurity Enthusiast**
 
