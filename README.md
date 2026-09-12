@@ -80,26 +80,4 @@ Feel free to reach out if you want to collaborate, chat, or just say hi!
 
 ---
 
-## Docker
-
-I use Docker to containerize projects for consistent development and deployment environments. Below are a few common commands you can adapt for your projects.
-
-- Build an image (run from project root with a Dockerfile):
-
-  docker build -t myapp:latest .
-
-- Run a container and map ports (example for a web app on port 3000):
-
-  docker run --rm -p 3000:3000 myapp:latest
-
-- Use Docker Compose (if you have a docker-compose.yml):
-
-  docker-compose up --build
-
-Tips:
-- Add a .dockerignore to keep your images small.
-- Use multi-stage builds for production images.
-
----
-
 **Thank you for visiting my profile! Don't forget to star ⭐ my projects if you find them useful!**
