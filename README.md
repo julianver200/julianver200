@@ -2,7 +2,7 @@
 
 **Aspiring Full-Stack Web Developer | Cybersecurity Enthusiast**
 
-Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**, dedicated to building functional, visually appealing, and secure web applications. I love solving problems through code and exploring the intersection of web development and cybersecurity.
+Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**, dedicated to building functional, visually appealing, and secure web applications. I love solving problems through [...]
 
 ---
 
@@ -45,6 +45,7 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=powershell&logoColor=white" alt="Terminal" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 ---
 
@@ -76,6 +77,28 @@ Feel free to reach out if you want to collaborate, chat, or just say hi!
 
 <!-- Add your featured projects here -->
 *Coming soon! Check out my repositories for more.*
+
+---
+
+## Docker
+
+I use Docker to containerize projects for consistent development and deployment environments. Below are a few common commands you can adapt for your projects.
+
+- Build an image (run from project root with a Dockerfile):
+
+  docker build -t myapp:latest .
+
+- Run a container and map ports (example for a web app on port 3000):
+
+  docker run --rm -p 3000:3000 myapp:latest
+
+- Use Docker Compose (if you have a docker-compose.yml):
+
+  docker-compose up --build
+
+Tips:
+- Add a .dockerignore to keep your images small.
+- Use multi-stage builds for production images.
 
 ---
 
