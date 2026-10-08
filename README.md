@@ -1,6 +1,6 @@
 #  Hi, I'm Julian!
 
-**Aspiring Full-Stack Web Developer | Cybersecurity Enthusiast**
+**Aspiring Full-Stack Web Developer **
 
 Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**, dedicated to building functional, visually appealing, and secure web applications. I love solving problems through code and creating meaningful digital experiences.
 
