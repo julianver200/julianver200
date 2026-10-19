@@ -8,15 +8,15 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 
 ##  About Me
 
-- 🚀 Currently honing my skills in full-stack web development
-- 🔒 Passionate about cybersecurity and secure coding practices
-- 💻 Based in Davao City, Philippines
-- 🎓 Always learning and staying updated with the latest technologies
-- 🤝 Open to collaboration and open-source contributions
+- Currently honing my skills in full-stack web development
+- Passionate about cybersecurity and secure coding practices
+- Based in Davao City, Philippines
+- Always learning and staying updated with the latest technologies
+- Open to collaboration and open-source contributions
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Frontend & Design
 <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 *Stats and Top Language showing soon!*
 
@@ -37,10 +37,10 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 
 ##  What I'm Currently Doing
 
-- 📚 Deepening my knowledge in full-stack development
-- 🔐 Exploring cybersecurity best practices and secure coding
-- 🚀 Building projects to showcase my skills
-- 💡 Contributing to open-source projects
+- Deepening my knowledge in full-stack development
+- Exploring cybersecurity best practices and secure coding
+- Building projects to showcase my skills
+- Contributing to open-source projects
 
 ---
 
@@ -48,8 +48,8 @@ Welcome to my GitHub profile! I'm a passionate developer based in **Davao City**
 
 Feel free to reach out if you want to collaborate, chat, or just say hi! 
 
-- 📧 Email: julianverquinal2006@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/julian-ver-quiñal-0507a9302
+- Email: julianverquinal2006@gmail.com
+- LinkedIn: www.linkedin.com/in/julian-ver-quiñal-0507a9302
 
 ---
 
